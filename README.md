@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## 欢迎来到 Cloud Studio
 
 这是一个展现 Cloud Studio 功能的 Python 示例。
@@ -45,3 +46,6 @@ web 目录下有用 Python 编写的 Web 代码，我们以此为例展示如何
 
 
 Happy Coding！
+=======
+# testblog
+>>>>>>> branch 'master' of git@github.com:greedyboy/testblog.git
