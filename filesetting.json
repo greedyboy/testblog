@@ -1,0 +1,17 @@
+{
+    "bademail":[
+        "3202.com"
+    ],
+    "invite":{
+        "https://workflowy.com/invite/51739f7d.lnx":{
+            "user@mail.com":{
+                "password":"",
+                "data":"2019-4-16",
+                "actok":false
+            }
+        }
+    },
+    "acturl":{
+        "user@mail.com":"http://act.com"
+    }
+}
